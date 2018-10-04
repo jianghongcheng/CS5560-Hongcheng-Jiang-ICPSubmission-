@@ -21,10 +21,8 @@ object SparkWordCount {
 
     //Taking all abstracts
     val winput = sc.wholeTextFiles(path = "inputFolder", minPartitions = 2)
+    val input=sc.textFile("data/abstracts",minPartitions = 10)
 
-    val input = winput.map(abs=>{
-      abs._2
-    })
 
     val wc = input.flatMap(line => {
       line.split(" ")// return statement I/P RDD[Array[]String] O/P RDD[String]

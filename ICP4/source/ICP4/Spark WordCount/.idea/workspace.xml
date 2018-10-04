@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b224231d-5da2-4f7b-a9f4-c34f68ca0419" name="Default" comment="" />
+    <list default="true" id="b224231d-5da2-4f7b-a9f4-c34f68ca0419" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data/abstracts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SparkTransformationActions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SparkTransformationActions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-wordcount-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-wordcount-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3801ecbefa3ab93f78ad$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3801ecbefa3ab93f78ad.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3801ecbefa3ab93f78ad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$76ce87758d5cfe115e2d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$76ce87758d5cfe115e2d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$76ce87758d5cfe115e2d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$76ce87758d5cfe115e2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$632d41b2573f7324a120$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$632d41b2573f7324a120$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$632d41b2573f7324a120.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$632d41b2573f7324a120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7585265439818c0225ca$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7585265439818c0225ca$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7585265439818c0225ca.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7585265439818c0225ca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b716296c644fd4bfab4c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca38930e4a814822ac1a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca38930e4a814822ac1a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca38930e4a814822ac1a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca38930e4a814822ac1a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e6a8195ceefd20a51d20$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e6a8195ceefd20a51d20$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e6a8195ceefd20a51d20.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e6a8195ceefd20a51d20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/spark-wordcount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/spark-wordcount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/spark-wordcount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/spark-wordcount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark-wordcount-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/sparktransformationactions-sparktransformationactions_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/sparktransformationactions/sparktransformationactions_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/SparkWordCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/.idea/modules/SparkTransformationActions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/modules/SparkTransformationActions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/.idea/modules/sparktransformationactions-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/modules/sparktransformationactions-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/project/target/config-classes/$d5fbc5bdce94e9504bfd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/project/target/config-classes/$d5fbc5bdce94e9504bfd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/project/target/config-classes/$d5fbc5bdce94e9504bfd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/project/target/config-classes/$d5fbc5bdce94e9504bfd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$3784dc61b3e906d6001f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$3784dc61b3e906d6001f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$3784dc61b3e906d6001f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$3784dc61b3e906d6001f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$44c59043ebf540d4f93d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$44c59043ebf540d4f93d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$44c59043ebf540d4f93d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$44c59043ebf540d4f93d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$5347b6a992f4ed5e9701$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$5347b6a992f4ed5e9701$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$5347b6a992f4ed5e9701.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$5347b6a992f4ed5e9701.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$70dbfda5c7e47038705b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$70dbfda5c7e47038705b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$70dbfda5c7e47038705b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$70dbfda5c7e47038705b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/config-classes/$ee20d9c63572845a308d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/default/sparktransformationactions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/default/sparktransformationactions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/default/sparktransformationactions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/default/sparktransformationactions-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/resolution-cache/reports/default-sparktransformationactions-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sbt_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sbt_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sbt_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sbt_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/default/sparktransformationactions_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sbt_2.11-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sbt_2.11-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/resolution-cache/reports/default-sparktransformationactions_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkTransformationActions/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -76,6 +271,30 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="-1409365016">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="abstracts" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -88,21 +307,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="881">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <state relative-caret-position="216">
+              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/.part-00000.crc">
+        <entry file="file://$PROJECT_DIR$/data/abstracts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/output/part-00000">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -118,6 +337,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,9 +354,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="903" />
-    <option name="y" value="118" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="3432" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -145,12 +367,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkTransformationActions" type="b2602c69:ProjectViewProjectNode" />
@@ -185,15 +413,19 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537850567063" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538548299292" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\5560\Git\CS5560-Hongcheng-Jiang-ICPSubmission-\ICP4\source\ICP4\Spark WordCount" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,6 +472,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="SubmitSparkJob_Configuration" factoryName="HDInsight Spark">
+      <spark-job-configuration>
+        <local-run>
+          <spark-local-run-configurable-model>
+            <is-parallel-execution>false</is-parallel-execution>
+            <is-pass-parent-envs>true</is-pass-parent-envs>
+            <program-parameters />
+            <working-directory>file://$PROJECT_DIR$</working-directory>
+            <envs>
+              <map />
+            </envs>
+            <vm-parameters />
+            <main-class />
+            <data-root>file://$PROJECT_DIR$/data</data-root>
+          </spark-local-run-configurable-model>
+        </local-run>
+        <spark_submission cluster_name="" is_local_artifact="false" artifact_name="" classname="">
+          <job_conf />
+          <cmd_line_args />
+          <ref_jars />
+          <ref_files />
+        </spark_submission>
+      </spark-job-configuration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -267,11 +526,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="spark-wordcount [file:/F:/5560/ICP/ICP4/Spark%20WordCount/]" />
+                <option name="name" value="spark-wordcount [file:/F:/5560/Git/CS5560-Hongcheng-Jiang-ICPSubmission-/ICP4/source/ICP4/Spark%20WordCount/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="spark-wordcount-build [file:/F:/5560/ICP/ICP4/Spark%20WordCount/]" />
+                <option name="name" value="spark-wordcount-build [file:/F:/5560/Git/CS5560-Hongcheng-Jiang-ICPSubmission-/ICP4/source/ICP4/Spark%20WordCount/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -281,7 +540,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4480753310000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3726500574" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3066353247" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="379200330" />
@@ -307,26 +565,31 @@
       <workItem from="1537607420800" duration="720000" />
       <workItem from="1537608324618" duration="675000" />
       <workItem from="1537846648271" duration="2437000" />
+      <workItem from="1538547589442" duration="499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13320000" />
+    <option name="totallyTimeSpent" value="13819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
-    <editor active="true" />
+    <frame x="3432" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0868669" />
+      <window_info id="Azure Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" />
+      <window_info anchor="bottom" id="Azure Activity Log" />
+      <window_info anchor="bottom" id="HDInsight Spark Submission" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8360656" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2562432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.15409836" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,7 +601,7 @@
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -370,7 +633,24 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/output/.part-00000.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstracts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/output/part-00001">
@@ -382,20 +662,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output/part-00000">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
